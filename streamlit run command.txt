@@ -1,1 +1,0 @@
-streamlit run "C:\Users\khira\OneDrive\Desktop\mona\multiple disease prediction system\multiple disease prediction system.py
